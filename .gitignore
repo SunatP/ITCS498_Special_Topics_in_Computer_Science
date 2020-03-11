@@ -3,3 +3,7 @@
 *.json
 *.py
 *.pyc
+Midterm/token.pickle
+*.txt
+*.gpkg
+*.zip
